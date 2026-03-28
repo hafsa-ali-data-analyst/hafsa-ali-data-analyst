@@ -51,9 +51,11 @@ Focused on solving real-world business problems through analytical thinking and 
 
 ---
 
-### 📊 GitHub Stats
-
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa-ali-data-analyst&show_icons=true&theme=default&cache_seconds=1800)
+### 🚀 Current Work & Projects
+- Developing SQL-based data analysis solutions  
+- Creating Power BI dashboards for data visualization  
+- Practicing real-world analytical problem solving  
+- Working with datasets to derive actionable insights  
 
 ---
 
