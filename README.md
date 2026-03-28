@@ -1,20 +1,19 @@
-## Hi, I'm Hafsa 👋  
+## Hafsa | Data Analyst | Turning Data into Meaningful Insights  
 
-### Data Analyst | Data Analysis & Visualization  
-
-I am a Data Analyst with a strong interest in extracting, analyzing, and visualizing data to generate meaningful insights. I enjoy working with data and continuously improving my skills through hands-on projects and coursework.
+Data Analyst with a strong focus on data analysis and visualization to derive actionable insights. Skilled in data extraction, cleaning, analysis, and visualization to generate actionable insights.
+Focused on solving real-world business problems through analytical thinking and data visualization.
 
 ---
 
 ### 📌 Currently Learning
 - Advanced SQL (Joins, Subqueries, Window Functions)  
-- Power BI Dashboard Development  
-- Data Analysis using Python  
-- Exploring Generative AI in Data Analytics  
+- Power BI Dashboard Development with data modeling, DAX, and interactive visualizations  
+- Data Analysis using Python (Pandas, NumPy)  
+- Exploring Generative AI applications in Data Analytics   
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tools & Technologies
 
 <p>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
@@ -52,6 +51,12 @@ I am a Data Analyst with a strong interest in extracting, analyzing, and visuali
 
 ---
 
+### 📊 GitHub Stats
+
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+---
+
 ### 🔗 Connect with Me
 
 <p>
@@ -68,9 +73,9 @@ I am a Data Analyst with a strong interest in extracting, analyzing, and visuali
 
 ### 💡 Interests
 - Data Analysis & Visualization  
-- Extracting Meaningful Business Insights from Data  
-- Problem Solving using Data  
-- Exploring Generative AI  
+- Deriving Actionable Insights from Data  
+- Analytical Problem Solving  
+- Exploring the Role of Generative AI in Data Analytics  
 
 
 
