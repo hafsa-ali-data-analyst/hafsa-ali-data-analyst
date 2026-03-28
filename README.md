@@ -53,7 +53,7 @@ Focused on solving real-world business problems through analytical thinking and 
 
 ### 📊 GitHub Stats
 
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa-ali-data-analyst&show_icons=true)
 
 ---
 
