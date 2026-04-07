@@ -46,8 +46,8 @@ Focused on solving real-world business problems through analytical thinking and 
 ### 📂 Featured Work
 
 - 📈 [Excel EV Charging & Revenue Analysis Dashboard Project](https://github.com/hafsa-ali-data-analyst/EV-Charging-Analysis-Excel-Project)
--  🔗 [SQL for Data Analysis](https://github.com/hafsa-ali-data-analyst/pwskills-sql-data-analysis)  
-- 📊 [Power BI Reports](https://github.com/hafsa-ali-data-analyst/pwskills_data_visualization_in_power_bi)  
+-  🔗 [SQL for Data Analysis](https://github.com/hafsa-ali-data-analyst/pwskills-sql-assignments)  
+- 📊 [Power BI Reports](https://github.com/hafsa-ali-data-analyst/pwskills-power-bi-assignments)  
 
 ---
 
