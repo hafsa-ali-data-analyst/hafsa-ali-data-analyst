@@ -1,8 +1,8 @@
 ## Hafsa Ali | Data Analyst | Transforming Data into Actionable Insights
 
-Data Analyst passionate about turning raw data into meaningful insights through data analysis, visualization, and business problem solving.
+Data Analyst focused on turning raw data into meaningful insights through data analysis, visualization and business problem solving.
 
-Skilled in analyzing datasets using SQL, Excel, Power BI, and Python to identify trends, improve decision-making, and create interactive dashboards. Experienced in data cleaning, exploratory data analysis, KPI tracking, and building analytical projects based on real-world datasets.
+Skilled in analyzing datasets using SQL, Excel, Power BI, and Python to identify trends, improve decision-making and create interactive dashboards. Experienced in data cleaning, exploratory data analysis, KPI tracking and building analytical projects based on real-world datasets.
 
 Focused on applying analytical thinking and visualization techniques to solve business problems and deliver data-driven insights.
 
@@ -46,7 +46,7 @@ Focused on applying analytical thinking and visualization techniques to solve bu
 https://github.com/hafsa-ali-data-analyst/airbnb-data-analysis
 
 - Performed data cleaning and exploratory data analysis on Airbnb listing datasets  
-- Analyzed pricing trends, room type distribution, host activity, and customer behavior  
+- Analyzed pricing trends, room type distribution, host activity and customer behavior  
 - Identified patterns affecting bookings and listing performance  
 - Created visual insights to support data-driven decision-making  
 - Used analytical techniques to uncover business insights from real-world data  
@@ -58,7 +58,7 @@ https://github.com/hafsa-ali-data-analyst/airbnb-data-analysis
 https://github.com/hafsa-ali-data-analyst/ev-charging-revenue-analysis-dashboard
 
 - Analyzed EV charging station data to identify revenue trends and charging behavior  
-- Built an interactive Excel dashboard using Pivot Tables, charts, slicers, and KPI tracking  
+- Built an interactive Excel dashboard using Pivot Tables, charts, slicers and KPI tracking  
 - Evaluated energy consumption patterns and peak charging activity  
 - Generated actionable insights to improve operational understanding and business performance  
 - Focused on dashboard storytelling and data visualization techniques  
@@ -71,7 +71,7 @@ https://github.com/hafsa-ali-data-analyst/retail-sales-analytics-sql
 
 - Performed retail sales analysis using SQL queries on transactional datasets  
 - Used joins, aggregations, subqueries, and window functions for analytical reporting  
-- Analyzed customer purchasing behavior, product performance, and sales trends  
+- Analyzed customer purchasing behavior, product performance and sales trends  
 - Extracted business insights to support revenue and sales analysis  
 - Improved analytical problem-solving through real-world SQL scenarios  
 
