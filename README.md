@@ -1,17 +1,13 @@
-## Hafsa | Data Analyst | Turning Data into Meaningful Insights  
+## Hafsa Ali | Data Analyst | Transforming Data into Actionable Insights
 
-Data Analyst with a strong focus on data analysis and visualization to derive actionable insights. Skilled in data extraction, cleaning, analysis, and visualization to generate actionable insights.
-Focused on solving real-world business problems through analytical thinking and data visualization.
+Data Analyst passionate about turning raw data into meaningful insights through data analysis, visualization, and business problem solving.
 
----
+Skilled in analyzing datasets using SQL, Excel, Power BI, and Python to identify trends, improve decision-making, and create interactive dashboards. Experienced in data cleaning, exploratory data analysis, KPI tracking, and building analytical projects based on real-world datasets.
 
-### 📌 Currently Learning
-- Advanced SQL (Joins, Subqueries, Window Functions)  
-- Power BI Dashboard Development with data modeling, DAX, and interactive visualizations  
-- Data Analysis using Python (Pandas, NumPy)  
-- Exploring Generative AI applications in Data Analytics   
+Focused on applying analytical thinking and visualization techniques to solve business problems and deliver data-driven insights.
 
 ---
+
 
 ### 🛠️ Tools & Technologies
 
@@ -43,29 +39,75 @@ Focused on solving real-world business problems through analytical thinking and 
 
 ---
 
-### 📂 Featured Work
+## 📂 Featured Projects
 
-- 📈 [Excel EV Charging & Revenue Analysis Dashboard Project](https://github.com/hafsa-ali-data-analyst/EV-Charging-Analysis-Excel-Project)
--  🔗 [SQL for Data Analysis](https://github.com/hafsa-ali-data-analyst/pwskills-sql-assignments)  
-- 📊 [Power BI Reports](https://github.com/hafsa-ali-data-analyst/pwskills-power-bi-assignments)  
+### 📌 Airbnb Data Analysis Project
+🔗 Repository:  
+https://github.com/hafsa-ali-data-analyst/airbnb-data-analysis
 
----
-
-### 🚀 Current Work & Projects
-- Developing SQL-based data analysis solutions  
-- Creating Power BI dashboards for data visualization  
-- Practicing real-world analytical problem solving  
-- Working with datasets to derive actionable insights  
+- Performed data cleaning and exploratory data analysis on Airbnb listing datasets  
+- Analyzed pricing trends, room type distribution, host activity, and customer behavior  
+- Identified patterns affecting bookings and listing performance  
+- Created visual insights to support data-driven decision-making  
+- Used analytical techniques to uncover business insights from real-world data  
 
 ---
 
-### 🔗 Connect with Me
+### 📌 EV Charging Revenue Analysis Dashboard
+🔗 Repository:  
+https://github.com/hafsa-ali-data-analyst/ev-charging-revenue-analysis-dashboard
+
+- Analyzed EV charging station data to identify revenue trends and charging behavior  
+- Built an interactive Excel dashboard using Pivot Tables, charts, slicers, and KPI tracking  
+- Evaluated energy consumption patterns and peak charging activity  
+- Generated actionable insights to improve operational understanding and business performance  
+- Focused on dashboard storytelling and data visualization techniques  
+
+---
+
+### 📌 Retail Sales Analytics using SQL
+🔗 Repository:  
+https://github.com/hafsa-ali-data-analyst/retail-sales-analytics-sql
+
+- Performed retail sales analysis using SQL queries on transactional datasets  
+- Used joins, aggregations, subqueries, and window functions for analytical reporting  
+- Analyzed customer purchasing behavior, product performance, and sales trends  
+- Extracted business insights to support revenue and sales analysis  
+- Improved analytical problem-solving through real-world SQL scenarios  
+
+---
+
+
+## 🚀 Core Skills
+
+- Data Cleaning & Data Preparation  
+- Exploratory Data Analysis (EDA)  
+- Dashboard Development & Data Visualization  
+- SQL Query Writing & Analytical Reporting  
+- Business Insight Generation  
+- KPI Analysis & Trend Identification  
+- Analytical Problem Solving  
+- Data-Driven Decision Making  
+
+---
+
+## 📈 Current Focus
+
+- Building end-to-end data analytics projects  
+- Strengthening SQL and Power BI skills  
+- Applying Python for data analysis workflows  
+- Exploring Generative AI applications in analytics  
+- Solving real-world business problems using data  
+
+---
+
+## 🔗 Connect With Me
 
 <p>
   <a href="mailto:hafsaali10122003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/hafsa-ali-data-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -73,11 +115,14 @@ Focused on solving real-world business problems through analytical thinking and 
 
 ---
 
-### 💡 Interests
-- Data Analysis & Visualization  
-- Deriving Actionable Insights from Data  
+## 💡 Interests
+
+- Data Analytics & Visualization  
+- Business Intelligence & Dashboarding  
+- SQL-Based Data Analysis  
 - Analytical Problem Solving  
-- Exploring the Role of Generative AI in Data Analytics  
+- Generative AI in Data Analytics  
+- Turning Data into Actionable Insights  
 
 
 
