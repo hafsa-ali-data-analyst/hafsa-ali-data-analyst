@@ -1,13 +1,12 @@
 ## Hafsa Ali | Data Analyst | Transforming Data into Actionable Insights
 
-Data Analyst focused on turning raw data into meaningful insights through data analysis, visualization and business problem solving.
+Data Analyst with a focus on data analysis, visualization and business problem-solving. Developing practical skills through hands-on projects and real-world datasets.
 
-Skilled in analyzing datasets using SQL, Excel, Power BI, and Python to identify trends, improve decision-making and create interactive dashboards. Experienced in data cleaning, exploratory data analysis, KPI tracking and building analytical projects based on real-world datasets.
+Working with SQL, Excel, Power BI Python and Tableau to explore data, identify patterns, build visualizations and communicate meaningful insights. My GitHub repositories showcase my hands-on work across different analytical use cases and demonstrate my approach to working with data.
 
-Focused on applying analytical thinking and visualization techniques to solve business problems and deliver data-driven insights.
+Continuously developing my analytical, technical and problem-solving skills while exploring practical applications of data analytics and visualization.
 
 ---
-
 
 ### 🛠️ Tools & Technologies
 
@@ -39,45 +38,6 @@ Focused on applying analytical thinking and visualization techniques to solve bu
 
 ---
 
-## 📂 Featured Projects
-
-### 📌 Airbnb Data Analysis Project
-🔗 Repository:  
-https://github.com/hafsa-ali-data-analyst/airbnb-data-analysis
-
-- Performed data cleaning and exploratory data analysis on Airbnb listing datasets  
-- Analyzed pricing trends, room type distribution, host activity and customer behavior  
-- Identified patterns affecting bookings and listing performance  
-- Created visual insights to support data-driven decision-making  
-- Used analytical techniques to uncover business insights from real-world data  
-
----
-
-### 📌 EV Charging Revenue Analysis Dashboard
-🔗 Repository:  
-https://github.com/hafsa-ali-data-analyst/ev-charging-revenue-analysis-dashboard
-
-- Analyzed EV charging station data to identify revenue trends and charging behavior  
-- Built an interactive Excel dashboard using Pivot Tables, charts, slicers and KPI tracking  
-- Evaluated energy consumption patterns and peak charging activity  
-- Generated actionable insights to improve operational understanding and business performance  
-- Focused on dashboard storytelling and data visualization techniques  
-
----
-
-### 📌 Retail Sales Analytics using SQL
-🔗 Repository:  
-https://github.com/hafsa-ali-data-analyst/retail-sales-analytics-sql
-
-- Performed retail sales analysis using SQL queries on transactional datasets  
-- Used joins, aggregations, subqueries, and window functions for analytical reporting  
-- Analyzed customer purchasing behavior, product performance and sales trends  
-- Extracted business insights to support revenue and sales analysis  
-- Improved analytical problem-solving through real-world SQL scenarios  
-
----
-
-
 ## 🚀 Core Skills
 
 - Data Cleaning & Data Preparation  
@@ -93,11 +53,12 @@ https://github.com/hafsa-ali-data-analyst/retail-sales-analytics-sql
 
 ## 📈 Current Focus
 
-- Building end-to-end data analytics projects  
-- Strengthening SQL and Power BI skills  
-- Applying Python for data analysis workflows  
-- Exploring Generative AI applications in analytics  
-- Solving real-world business problems using data  
+- Strengthening SQL and data analysis skills through practical problem-solving
+- Developing analytical projects using real-world datasets
+- Improving dashboard development and data visualization techniques
+- Applying Python for data analysis and data preparation
+- Exploring Generative AI applications in data analytics
+- Continuously learning and applying new approaches to data-driven problem solving
 
 ---
 
@@ -113,7 +74,7 @@ https://github.com/hafsa-ali-data-analyst/retail-sales-analytics-sql
   </a>
 </p>
 
----
+----
 
 ## 💡 Interests
 
@@ -122,7 +83,4 @@ https://github.com/hafsa-ali-data-analyst/retail-sales-analytics-sql
 - SQL-Based Data Analysis  
 - Analytical Problem Solving  
 - Generative AI in Data Analytics  
-- Turning Data into Actionable Insights  
-
-
-
+- Data-Driven Business Insights  
