@@ -1,10 +1,10 @@
 ## Hafsa Ali | Data Analyst | Transforming Data into Actionable Insights
 
-Data Analyst with a focus on data analysis, visualization and business problem-solving. Developing practical skills through hands-on projects and real-world datasets.
+Data Analyst with hands-on project experience in analysing real-world datasets, identifying trends and solving business-related problems.
 
-Working with SQL, Excel, Power BI Python and Tableau to explore data, identify patterns, build visualizations and communicate meaningful insights. My GitHub repositories showcase my hands-on work across different analytical use cases and demonstrate my approach to working with data.
+Skilled in SQL, Advanced Excel, Power BI, Tableau and Python, with practical experience in data cleaning, exploratory data analysis, KPI tracking, dashboard development and business reporting.
 
-Continuously developing my analytical, technical and problem-solving skills while exploring practical applications of data analytics and visualization.
+My project portfolio spans E-commerce, Hospitality, Retail, Social & Economic Research and Electric Mobility, demonstrating the application of analytical skills across diverse business domains.
 
 ---
 
@@ -36,29 +36,56 @@ Continuously developing my analytical, technical and problem-solving skills whil
   </a>
 </p>
 
+--- 
+
+
+## 🚀 Featured Projects
+
+### 1. [Olist E-Commerce Data Analysis](https://github.com/hafsa-ali-data-analyst/olist-ecommerce-data-analysis)
+**Tools:** Python (Pandas), SQL, Power BI, SQLite
+
+Performed end-to-end analysis of Brazilian e-commerce marketplace data across 9 datasets. Covered data cleaning, sales performance, customer retention, product analysis, customer satisfaction and delivery performance. Developed an interactive Power BI dashboard, identifying key business insights such as a 93.22% on-time delivery rate and approximately 3% repeat customer rate.
+
+### 2. [Airbnb Market Insights Dashboard](https://github.com/hafsa-ali-data-analyst/airbnb-data-analysis)
+**Tools:** Advanced Excel, SQL (SQLite), Tableau
+
+Analysed 100K+ Airbnb listings to explore pricing trends, room types, property availability, booking policies and customer ratings. Performed data cleaning and SQL-based analysis before developing an interactive Tableau dashboard to communicate hospitality and accommodation market insights.
+
+### 3. [EV Charging Revenue Analysis Dashboard](https://github.com/hafsa-ali-data-analyst/ev-charging-revenue-analysis-dashboard)
+**Tools:** Advanced Excel, Pivot Tables, Pivot Charts, Excel Functions
+
+Analysed 6,500 EV charging sessions to evaluate revenue generation, energy consumption, vehicle categories, city-wise performance and customer satisfaction. Developed an interactive Excel dashboard with KPI tracking and data visualizations to identify charging patterns and business opportunities.
+
+### 4. [Global Happiness & Inflation Analysis](https://github.com/hafsa-ali-data-analyst/global-happiness-inflation-analysis)
+**Tools:** Advanced Excel, Pivot Tables, Pivot Charts, Statistical Analysis
+
+Analysed global happiness and economic indicators across countries from 2015–2023. Performed data cleaning, missing value treatment, exploratory data analysis and relationship analysis involving GDP, inflation and happiness scores. Developed an interactive dashboard to identify global trends and economic patterns.
+
+### 5. [Retail Sales Analytics Using SQL](https://github.com/hafsa-ali-data-analyst/retail-sales-analytics-sql)
+**Tools:** SQL, MySQL Workbench, CTEs, Subqueries, Window Functions
+
+Analysed retail transactional data to evaluate customer purchasing behaviour, product performance, category-wise revenue and employee sales performance. Used SQL joins, aggregations and window functions to calculate business KPIs and uncover actionable sales insights.
+
 ---
 
 ## 🚀 Core Skills
 
-- Data Cleaning & Data Preparation  
-- Exploratory Data Analysis (EDA)  
-- Dashboard Development & Data Visualization  
-- SQL Query Writing & Analytical Reporting  
-- Business Insight Generation  
-- KPI Analysis & Trend Identification  
-- Analytical Problem Solving  
-- Data-Driven Decision Making  
-
+- Data Cleaning & Data Preparation
+- Exploratory Data Analysis (EDA)
+- SQL Query Writing & Data Extraction
+- Business Intelligence & Dashboard Development
+- Data Visualization & KPI Reporting
+- Business Insights & Trend Analysis
+- Data-Driven Decision Making
+  
 ---
 
 ## 📈 Current Focus
 
-- Strengthening SQL and data analysis skills through practical problem-solving
-- Developing analytical projects using real-world datasets
-- Improving dashboard development and data visualization techniques
-- Applying Python for data analysis and data preparation
-- Exploring Generative AI applications in data analytics
-- Continuously learning and applying new approaches to data-driven problem solving
+- Strengthening SQL and Python skills through practical problem-solving.
+- Improving Power BI dashboard development and DAX.
+- Exploring Generative AI applications in data analytics.
+- Developing analytical thinking and business problem-solving skills.
 
 ---
 
@@ -73,14 +100,3 @@ Continuously developing my analytical, technical and problem-solving skills whil
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-----
-
-## 💡 Interests
-
-- Data Analytics & Visualization  
-- Business Intelligence & Dashboarding  
-- SQL-Based Data Analysis  
-- Analytical Problem Solving  
-- Generative AI in Data Analytics  
-- Data-Driven Business Insights  
