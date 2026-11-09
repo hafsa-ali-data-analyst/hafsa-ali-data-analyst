@@ -8,7 +8,7 @@ My project portfolio spans E-commerce, Hospitality, Retail, Social & Economic Re
 
 ---
 
-### 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel">
@@ -39,7 +39,7 @@ My project portfolio spans E-commerce, Hospitality, Retail, Social & Economic Re
 --- 
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. [Olist E-Commerce Data Analysis](https://github.com/hafsa-ali-data-analyst/olist-ecommerce-data-analysis)
 **Tools:** Python (Pandas), SQL, Power BI, SQLite
@@ -68,7 +68,7 @@ Analysed retail transactional data to evaluate customer purchasing behaviour, pr
 
 ---
 
-## 🚀 Core Skills
+## Core Skills
 
 - Data Cleaning & Data Preparation
 - Exploratory Data Analysis (EDA)
@@ -80,7 +80,7 @@ Analysed retail transactional data to evaluate customer purchasing behaviour, pr
   
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 - Strengthening SQL and Python skills through practical problem-solving.
 - Improving Power BI dashboard development and DAX.
@@ -89,14 +89,14 @@ Analysed retail transactional data to evaluate customer purchasing behaviour, pr
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
-<p>
-  <a href="mailto:hafsaali10122003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <p>
+    <a href="mailto:hafsaali10122003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 
-  <a href="https://www.linkedin.com/in/hafsa-ali-data-analyst/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+    <a href="https://www.linkedin.com/in/hafsa-ali-data-analyst/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
